@@ -1,1 +1,1 @@
-# jenkins-custom
+# files needed for custom jenkins image creation
